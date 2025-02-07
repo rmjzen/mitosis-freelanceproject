@@ -1,0 +1,24 @@
+{
+  "name": "learningtailwind",
+  "version": "1.0.0",
+  "description": "\"# mitosis-freelanceproject\" \r \"# mitosis-freelanceproject\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmjzen/mitosis-freelanceproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmjzen/mitosis-freelanceproject/issues"
+  },
+  "homepage": "https://github.com/rmjzen/mitosis-freelanceproject#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.4",
+    "tailwindcss": "^4.0.4"
+  }
+}
